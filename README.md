@@ -28,5 +28,9 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
+Python • SQL • JavaScript • HTML • CSS • R (Basic) • Scala (Basic)
+
+
 
 
