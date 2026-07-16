@@ -8,7 +8,6 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 
 - 🎓 BCA Graduate specializing in Artificial Intelligence & Data Science
 - 💻 Passionate about solving real-world problems using technology
-- 🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Cloud Technologies
 - 🚀 Building projects in Python, SQL, Data Analytics, and AI
 - 📚 Always exploring new tools and technologies
 - 💼 Open to internship and full-time opportunities
