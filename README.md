@@ -43,6 +43,9 @@ Power BI • Tableau • Matplotlib • Seaborn • Looker Studio (Google Data S
 ### Development Tools
 Git • GitHub • Jupyter Notebook • Google Colab • VS Code • Spyder • Microsoft Excel (Advanced)
 
+### Core Strengths
+Problem Solving • Analytical Thinking • Attention to Detail • Team Collaboration • Adaptability
+
 
 
 
