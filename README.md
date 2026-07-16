@@ -14,3 +14,12 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 - 💼 Open to internship and full-time opportunities
 - ⚡ I believe learning never stops.
 
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn:[ YOUR_LINKEDIN]([url](https://www.linkedin.com/in/vaishnavi-pushp-a82670309/))
+
+📧 Email: vpushp312@gmail.com
+
+
