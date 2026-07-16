@@ -6,8 +6,6 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 
 ---
 
-## 👩‍💻 About Me
-
 - 🎓 BCA Graduate specializing in Artificial Intelligence & Data Science
 - 💻 Passionate about solving real-world problems using technology
 - 🌱 Currently learning Data Structures & Algorithms, Machine Learning, and Cloud Technologies
