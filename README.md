@@ -13,7 +13,7 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 - 📚 Always exploring new tools and technologies
 - 💼 Open to internship and full-time opportunities
 - ⚡ I believe learning never stops.
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at https://github.com/vaishnavi425
 
 ---
 
