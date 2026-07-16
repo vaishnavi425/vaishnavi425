@@ -19,7 +19,7 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 ## 🤝 Connect With Me
 
 💼 LinkedIn: [Vaishnavi's LinkedIn](https://www.linkedin.com/in/vaishnavi-pushp-a82670309/)
-
 📧 Email: vpushp312@gmail.com
+🧩 LeetCode: [_vaish16](https://leetcode.com/u/_vaish16/)
 
 
