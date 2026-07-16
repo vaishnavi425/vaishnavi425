@@ -40,6 +40,9 @@ Pandas • NumPy • MySQL • Hadoop (Basic)
 ### Data Visualization & BI
 Power BI • Tableau • Matplotlib • Seaborn • Looker Studio (Google Data Studio)
 
+### Development Tools
+Git • GitHub • Jupyter Notebook • Google Colab • VS Code • Spyder • Microsoft Excel (Advanced)
+
 
 
 
