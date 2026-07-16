@@ -37,6 +37,9 @@ Data Analysis • Data Cleaning • Data Transformation • Exploratory Data Ana
 ### Libraries & Technologies
 Pandas • NumPy • MySQL • Hadoop (Basic)
 
+### Data Visualization & BI
+Power BI • Tableau • Matplotlib • Seaborn • Looker Studio (Google Data Studio)
+
 
 
 
