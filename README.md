@@ -34,6 +34,9 @@ Python • SQL • JavaScript • HTML • CSS • R (Basic) • Scala (Basic)
 ### Data Analytics
 Data Analysis • Data Cleaning • Data Transformation • Exploratory Data Analysis (EDA) • Data Visualization
 
+### Libraries & Technologies
+Pandas • NumPy • MySQL • Hadoop (Basic)
+
 
 
 
