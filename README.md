@@ -18,7 +18,7 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn:[ YOUR_LINKEDIN]([url](https://www.linkedin.com/in/vaishnavi-pushp-a82670309/))
+💼 LinkedIn: [Vaishnavi's LinkedIn](https://www.linkedin.com/in/vaishnavi-pushp-a82670309/)
 
 📧 Email: vpushp312@gmail.com
 
