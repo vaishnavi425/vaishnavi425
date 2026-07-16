@@ -24,4 +24,9 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 
 🧩 LeetCode: [_vaish16](https://leetcode.com/u/_vaish16/)
 
+---
+
+## 🛠️ Tech Stack
+
+
 
