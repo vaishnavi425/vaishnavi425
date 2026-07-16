@@ -31,6 +31,10 @@ Passionate about Technology, Data & Building Real-World Solutions 🚀
 ### Programming Languages
 Python • SQL • JavaScript • HTML • CSS • R (Basic) • Scala (Basic)
 
+### Data Analytics
+Data Analysis • Data Cleaning • Data Transformation • Exploratory Data Analysis (EDA) • Data Visualization
+
+
 
 
 
